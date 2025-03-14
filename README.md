@@ -20,14 +20,11 @@ This book is an excellent guide for both beginners and practitioners who want to
 
 ---
 
-
----
-
 ## 🚀 Setup Instructions
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Hands-on-ML-with-Scikit-Learn-TF-and-keras-Practicals.git
+   git clone https://github.com/rushikeshya/Hands-on-ML-with-Scikit-Learn-TF-and-keras-Practicals.git
    ```
 2. Install dependencies:
    ```bash
@@ -42,12 +39,14 @@ This book is an excellent guide for both beginners and practitioners who want to
 
 ## 🛠 Tools and Technologies
 
-- Python 3.13
+- Python
 - Jupyter Notebook
 - Scikit-Learn
 - TensorFlow
 - Keras
-- Matplotlib, Pandas, NumPy
+- Matplotlib
+- Pandas
+- NumPy
 
 ---
 

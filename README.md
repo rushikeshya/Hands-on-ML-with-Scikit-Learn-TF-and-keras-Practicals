@@ -1,11 +1,11 @@
 ### Hands-on-ML-with-Scikit-Learn-TF-and-keras-Practicals
-# Hands-on Machine Learning with Scikit-Learn, TensorFlow and Keras 2nd edition by Aurélien Géron 
+# Hands-on Machine Learning with Scikit-Learn, TensorFlow and Keras 3rd edition by Aurélien Géron 
 
 ---
 
 # Hands-on ML with Scikit-Learn, TensorFlow, and Keras Practicals
 
-Welcome to the repository for my hands-on practical exercises based on **"Hands-on Machine Learning with Scikit-Learn, TensorFlow, and Keras" (2nd Edition) by Aurélien Géron**. This repository contains my implementations, notes, and experiments while learning Machine Learning concepts.
+Welcome to the repository for my hands-on practical exercises based on **"Hands-on Machine Learning with Scikit-Learn, TensorFlow, and Keras" (3rd Edition) by Aurélien Géron**. This repository contains my implementations, notes, and experiments while learning Machine Learning concepts.
 
 ---
 
